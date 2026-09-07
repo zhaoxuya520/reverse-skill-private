@@ -6,10 +6,10 @@
 
 ## 统计
 
-- 真实项目数：21
+- 真实项目数：22
 - 种子参考数：17
-- 总条目数：38
-- 最近更新：2026-09-03
+- 总条目数：39
+- 最近更新：2026-09-07
 
 ## 按场景分类
 
@@ -21,6 +21,7 @@
 
 ### 二进制 / 固件 / CTF
 
+- [2026-09-07 Famicom Namco-163 战略 RPG ROM 静态拆解（iNES mapper19 / 6502 / 递归tracer / N163音源 / 启动硬件校验 / stdlib CHR→PNG）](./2026-09-07_famicom-namco163-strategy-rom-teardown.md)
 - [2026-08-06_cortex-m-msc-firmware-self-keyed-rotate-xor](./2026-08-06_cortex-m-msc-firmware-self-keyed-rotate-xor.md)
 - [2026-07-22 Electron Bytenode 特权更新链分析](./2026-07-22_electron-bytenode-privileged-update-chain.md)
 - [2026-07-14_android-arm64-self-extract-source-recovery](./2026-07-14_android-arm64-self-extract-source-recovery.md)
