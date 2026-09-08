@@ -847,6 +847,21 @@
       "quick": true
     },
     {
+      "hint": "案件审查 证据链 可追溯性",
+      "expect": "R40",
+      "quick": false
+    },
+    {
+      "hint": "案例审计 证据图 可追溯性 fixity 校验",
+      "expect": "R40",
+      "quick": false
+    },
+    {
+      "hint": "evidence graph fixity check for the case audit",
+      "expect": "R40",
+      "quick": false
+    },
+    {
       "hint": "Collect public X and Twitter posts about this IOC for OSINT threat intelligence",
       "expect": "R44",
       "quick": true
